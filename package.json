@@ -16,6 +16,7 @@
     "@strapi/plugin-users-permissions": "5.9.0",
     "@strapi/strapi": "5.9.0",
     "@strapi/upload": "^5.9.0",
+    "@swc/core": "^1.10.12",
     "fs-extra": "^10.0.0",
     "mime-types": "^2.1.27",
     "pg": "8.8.0",
@@ -30,6 +31,7 @@
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "esbuild": "^0.24.2",
+    "esbuild-wasm": "^0.24.2",
     "typescript": "^5"
   },
   "engines": {
